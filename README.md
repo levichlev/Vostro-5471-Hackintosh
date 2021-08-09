@@ -3,3 +3,4 @@
 \
 \
 Hardware list soon™
+OS X Big Sur 11.5.1
