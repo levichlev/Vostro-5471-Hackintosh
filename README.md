@@ -1,6 +1,6 @@
 # Dell Vostro 5471 laptop EFI for OpenCore 0.7.2
 
-*There's now a separate branch for Monterey Beta 4 [link](https://github.com/levichlev/Vostro-5471-Hackintosh/tree/monterey) \
+*There's now a separate branch for Monterey Beta 4 (Upd: works with Beta 5 too) [link](https://github.com/levichlev/Vostro-5471-Hackintosh/tree/monterey) \
 It will be merged into main when Monterey will release out of beta*
 
 
