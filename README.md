@@ -1,4 +1,4 @@
-# Dell Vostro 5471 laptop EFI for OpenCore 0.7.2
+# Dell Vostro 5471 laptop EFI for OpenCore 0.7.9
 
 | Component | Info |
 |-----------|-------|
@@ -11,5 +11,5 @@
 | Wifi + Bluetooth |	Intel® Something Something (stock) |
 | SSD	| Toshiba KSG60ZMV256G M.2 2280 256GB |
 | SmBios |	MacbookPro 15,2 |
-| BootLoader	| OpenCore 0.7.2 |
-| OS X Version  | Big Sur 11.5.1 |
+| BootLoader	| OpenCore 0.7.9 |
+| OS X Version  | Monterey 12.3|
