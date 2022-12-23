@@ -1,3 +1,5 @@
+Repository archived since I got an actual MacBook now
+
 # Dell Vostro 5471 laptop EFI for OpenCore 0.7.9
 
 | Component | Info |
